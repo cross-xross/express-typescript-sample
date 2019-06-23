@@ -6,6 +6,7 @@ ExpressでWebAPIを作る時の雛形プロジェクトです。
 
 - TypeScript
 - Express
+- pug
 - webpack
 - jest
 
